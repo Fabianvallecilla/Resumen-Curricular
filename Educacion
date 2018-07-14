@@ -1,0 +1,149 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name:="viewport" content="width=device-width,user-scaleble=no">
+		<title>Resumen Curricular</title>
+				<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+				 <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+				 <title>Resumen Curricular</title>
+				 <g>
+				  <title>Logo</title>
+				  <g id="svg_2" stroke="null">
+				   <path fill="#bfbfbf" stroke-width="0" stroke-dasharray="5,2,2,2,2,2" stroke-linejoin="null" stroke-linecap="null" d="m79.662484,86.999296l2.866715,-10.400209l11.466893,-2.600055l-14.333608,13.000264l-71.666363,0l0,-77.999996l85.999974,0l0,64.999735" id="svg_8" stroke="#000000"/>
+				   <path fill="#4f5edd" stroke-width="0" stroke-dasharray="5,2,2,2,2,2" stroke-linejoin="null" stroke-linecap="null" d="m32.99694,28.45638l17.836969,-16.874118l17.839912,16.874118l-17.839912,16.874147l-17.836969,-16.874147zm-20.085476,19.111044l17.839918,-16.874116l17.836975,16.874116l-17.836975,16.876941l-17.839918,-16.876941zm40.550304,0.344649l17.839951,-16.871375l17.834045,16.871375l-17.834045,16.876887l-17.839951,-16.876887zm-20.079677,19.113818l17.834053,-16.874139l17.839978,16.874139l-17.839978,16.874245l-17.834053,-16.874245z" id="svg_5" stroke="#000000"/>
+				   <text fill="#000000" stroke-width="0" stroke-dasharray="5,2,2,2,2,2" stroke-linejoin="null" stroke-linecap="null" x="54.269276" y="77.418008" id="svg_11" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.2730158092651274,0,0,0.25827812493310376,35.619404976585926,12.608752673088246) " stroke="#000000">J</text>
+				   <text fill="#000000" stroke-width="0" stroke-dasharray="5,2,2,2,2,2" stroke-linejoin="null" stroke-linecap="null" x="130.106956" y="144.876918" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" id="svg_12" transform="matrix(0.2730158092651274,0,0,0.25827812493310376,35.619404976585926,12.608752673088246) " stroke="#000000">F</text>
+				   <text fill="#000000" stroke-width="0" stroke-dasharray="5,2,2,2,2,2" stroke-linejoin="null" stroke-linecap="null" x="-19.225524" y="143.437728" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" id="svg_14" transform="matrix(0.2730158092651274,0,0,0.25827812493310376,35.619404976585926,12.608752673088246) " stroke="#000000">R</text>
+				   <text id="svg_1" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="219.007348" x="57.551396" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="5,2,2,2,2,2" stroke-width="0" fill="#000000" transform="matrix(0.2730158092651274,0,0,0.25827812493310376,35.619404976585926,12.608752673088246) " stroke="#000000">V</text>
+				  </g>
+				  <path fill="#bfbfbf" stroke="#000000" stroke-width="0" stroke-dasharray="5,2,2,2,2,2" stroke-linejoin="null" stroke-linecap="null" opacity="0.5" d="m0.52701,0.46801l0.46801,-0.46801l0.46809,0.46801l-0.46809,0.46802l-0.46801,-0.46802zm-0.52701,0.53006l0.46809,-0.46801l0.46801,0.46801l-0.46801,0.46809l-0.46809,-0.46809zm1.06397,0.00956l0.46809,-0.46794l0.46794,0.46794l-0.46794,0.46809l-0.46809,-0.46809zm-0.52685,0.53013l0.46793,-0.46802l0.46809,0.46802l-0.46809,0.46801l-0.46793,-0.46801z" id="svg_4"/>
+				 </g>
+				</svg>
+	</head>
+	<body>
+		<header><h1>Resumen Curricular</h1></header>
+			<h2>Datos Personales</h2>
+			<h3>Jhony Fabian Vallecilla Romero</h3>
+			<h3>Diciembre 29 de 1992 en Funza, Cundinamarca, Colombia</h3>
+			<nav> <a href="Index.html">Inicio</a> | <a href="Experiencia.html">Experiencia</a> </nav>
+
+			<h2><img src="img/Fabian.jpg" alt="Foto Resumen Curricular" title="Foto Resumen Curricular" width="100px" height="100px"/>              Educación</h2>
+			<table border="1">
+				<tr>
+					<td><strong>Año<strong></td>
+					<td><strong>Institución</strong></td>
+					<td><strong>Modalidad</strong></td>
+					<td><strong>Certificación</strong></td>
+					<td><strong>Estado</strong></td>
+				</tr>
+				<tr>
+					<td>2003</td>
+					<td>Institución Educativa Santa Ana</td>
+					<td>Presencial</td>
+					<td>Primaria</td>
+					<td>Culminado</td>
+				</tr>
+				<tr>
+					<td>2009</td>
+					<td>Institución Educativa Santa Ana</td>
+					<td>Presencial</td>
+					<td>Secundaria</td>
+					<td>Culminado</td>
+				</tr>
+				<tr>
+					<td>2012</td>
+					<td>Corporación Universitaria Remington</td>
+					<td>Presencial</td>
+					<td>Tecnico en Contabilidad</td>
+					<td>Culminado</>
+				</tr>
+				<tr>
+					<td>2013</td>
+					<td>Servicio Nacional de Aprendizaje SENA</td>
+					<td>Online</td>
+					<td>Administración y Control de Inventarios</td>
+					<td>Culminado</td>
+				</tr>
+				<tr>
+					<td>2013</td>
+					<td>Servicio Nacional de Aprendizaje SENA</td>
+					<td>Online</td>
+					<td>Análisis Financiero</td>
+					<td>Culminado</td>
+				</tr>
+				<tr>
+					<td>2013</td>
+					<td>Servicio Nacional de Aprendizaje SENA</td>
+					<td>Online</td>
+					<td>Análisis y Gestión Financiera.</td>
+					<td>Culminado</td>
+				</tr>
+				<tr>
+					<td>2015</td>
+					<td>Corporación Universitaria Remington</td>
+					<td>Presencial</td>
+					<td>Contador Público</td>
+					<td>Culminado</td>
+				</tr>
+				<tr>
+					<td>2015</td>
+					<td>Politécnico de Colombia</td>
+					<td>Online</td>
+					<td>Diplomado en Finanzas</td>
+					<td>Culminado</td>
+				</tr>
+				<tr>
+					<td>2015</td>
+					<td>Instituto Nacional de Contadores Públicos INCP</td>
+					<td>Online</td>
+					<td>Diplomado en NIIF para PYMES</td>
+					<td>Culminado</td>
+				</tr>
+				<tr>
+					<td>2018</td>
+					<td>Next U</td>
+					<td>Online</td>
+					<td>Curso Mantenimiento y Soporte Tecnico</td>
+					<td>Culminado</td>
+				</tr>
+				<tr>
+					<td>2018</td>
+					<td>Next U</td>
+					<td>Online</td>
+					<td>Curso Desarrollo Web</td>
+					<td>En Proceso</td>
+				</tr>
+			</table>
+			<p>
+			</p>
+			<form autocomplete="on" name="Agregar Estudios">
+					<legend><strong>Agregar Estudios</strong></legend>
+					<p><strong>Año	</strong>
+					<select>
+						<option>2003</option>
+						<option>2004</option>
+						<option>2005</option>
+						<option>2006</option>
+						<option>2007</option>
+						<option>2008</option>
+						<option>2009</option>
+						<option>2010</option>
+						<option>2011</option>
+						<option>2012</option>
+						<option>2013</option>
+						<option>2014</option>
+						<option>2015</option>
+						<option>2016</option>
+						<option>2017</option>
+						<option>2018</option>
+					</select></br>
+						<label for="nombre"><strong>Institución</strong></label>
+						<input type="text" placeholder="Next U"></br>
+						<label for="nombre"><strong>Modalidad</strong></label>
+						<input type="text">
+					</p>
+					<input type="Submit">
+			</form>
+		<footer><strong><p>Contacto</strong></p><strong>E-mail:</strong>fabianva.cp@gmail.com<br><strong>Telefono: </strong>3108502658</br><strong>@fabianvallecilla</strong></footer>
+	</body>	
+</html>
