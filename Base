@@ -26,7 +26,20 @@
 			<nav> <a href="Educacion.html">Educación</a> | <a href="Experiencia.html">Experiencia</a> </nav>
 		<h2><img src="img/Fabian.jpg" alt="Foto Resumen Curricular" title="Foto Resumen Curricular" width="100px" height="100px"/> Información Personal</h2>
 			<h3>Jhony Fabian Vallecilla Romero</h3>
-			<h3>Diciembre 29 de 1992 en Funza, Cundinamarca, Colombia</h3>
+			<h3>Diciembre 29 de 1992 en Funza, Cundinamarca, Colombia</h3
+		<h2>Perfil</h2>
+			<article><p>Soy una persona responsable, proactiva, organizada; con capacidad de liderazgo y aprendizaje, asumo los retos y metas que se presenten tanto a nivel personal</br>
+				como laboral; con buen manejo de relaciones interpersonales, facilidad para trabajar en equipo, en condiciones de alta presión, así como para resolver</br>
+				problemas eficientemente y lograr los objetivos planteados por la empresa y el entorno de trabajo buscando el bien común por encima del personal.</br>
+				Cuento con conocimientos en Normas Internacionales de Información Financiera (NIIF), contabilidad general, (costos, propiedad horizontal). Revisión, preparación y</br>
+				presentación de EEFF de propósito general, Información Exógena Nacional y Distrital, medios cambiarios, precios de transferencia, Informe Superintendencia</br>
+				de Sociedades, conciliaciones bancarias, conciliaciones de cuentas, Diferencia en Cambio, facturación, legalizaciones de gastos, manejo de anticipos, cuentas por</br>
+				pagar, cartera, liquidación y presentación de las diversas declaraciones tributarias (Renta, IVA, Retefuente, Autorretención CREE, liquidación de nómina y prestaciones</br>
+				sociales teniendo en cuenta la normatividad vigente. Manejo de Excel avanzado; fórmulas y macros.</p>
+
+			<p>Adicionalmente cuento con conocimiento en análisis financiero, administración de copropiedades, recaudo de cartera, preparación y seguimiento a presupuesto de
+				acuerdo a la ley 675 de 2001.</p></article>
+
   		<footer><strong><p>Contacto</strong></p><strong>E-mail:</strong>fabianva.cp@gmail.com<br><strong>Telefono: </strong>3108502658</br><strong>@fabianvallecilla</strong></footer>
 	</body>	
 </html>
