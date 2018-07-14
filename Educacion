@@ -1,4 +1,4 @@
-<html>
+
 	<head>
 		<meta charset="utf-8">
 		<meta name:="viewport" content="width=device-width,user-scaleble=no">
@@ -27,7 +27,8 @@
 			<h3>Diciembre 29 de 1992 en Funza, Cundinamarca, Colombia</h3>
 			<nav> <a href="Index.html">Inicio</a> | <a href="Experiencia.html">Experiencia</a> </nav>
 
-			<h2><img src="img/Fabian.jpg" alt="Foto Resumen Curricular" title="Foto Resumen Curricular" width="100px" height="100px"/>              Educación</h2>
+		<h2>Educación</h2>		
+
 			<table border="1">
 				<tr>
 					<td><strong>Año<strong></td>
@@ -147,3 +148,4 @@
 		<footer><strong><p>Contacto</strong></p><strong>E-mail:</strong>fabianva.cp@gmail.com<br><strong>Telefono: </strong>3108502658</br><strong>@fabianvallecilla</strong></footer>
 	</body>	
 </html>
+<html>
